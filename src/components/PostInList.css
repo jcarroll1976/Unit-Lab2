@@ -1,0 +1,12 @@
+.container {
+    background-color:white;
+    color:#000;
+}
+
+p {
+    font-family: Dosis;
+}
+
+.PostInList button {
+    margin:10px;
+}

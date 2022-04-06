@@ -1,0 +1,20 @@
+.modal-background {
+    width:100vw;
+    height:100vh;
+    position:fixed;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.PostForm {
+    background-color:#79c5e8;
+    width:50%;
+    height:300px;
+    border-radius:12px;
+    padding:10px;
+}
+
+input {
+    margin: 10px;
+}
